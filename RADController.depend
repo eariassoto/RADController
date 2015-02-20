@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1424464742 source:d:\radcontroller\main.cpp
+	<stdio.h>
+	<GL/glut.h>
+	<string>
+	"SerialClass.h"
+
+1408970824 d:\opengl\glut\include\gl\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1424461516 d:\radcontroller\serial.h
+
+1424462109 source:d:\radcontroller\serial.cpp
+	"SerialClass.h"
+
+1424462112 d:\radcontroller\serialclass.h
+	<windows.h>
+	<stdio.h>
+	<stdlib.h>
+
